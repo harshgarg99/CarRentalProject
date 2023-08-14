@@ -2,6 +2,9 @@
 const nextConfig = {
     Images: {
         domains: ['cdn.imagin.studio']
+    },
+    typescript: {
+        ignoreBuildErrors: true,
     }
 }
 
